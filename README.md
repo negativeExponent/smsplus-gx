@@ -1,4 +1,4 @@
-SMSPlus-GX RS97
+SMSPlus-GX
 ==================
 
 It used to be based on SMS Plus 1.3 but then i realised SMS Plus GX had a lot of additions and was much better, while still being free software.
